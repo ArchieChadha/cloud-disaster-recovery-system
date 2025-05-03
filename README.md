@@ -24,12 +24,8 @@ Key Features
 - Detailed recovery point objectives (RPO) & recovery time objectives (RTO)
 - Designed for minimal downtime & business continuity
 
-Project Files
--   docs
-  *Detailed documentation of the solution architecture, AWS services used, and disaster recovery plan.*
-
 How to Use
-1. Review the detailed report docs
+1. Review the Detailed documentation of the solution architecture, AWS services used, and disaster recovery plan report.
 2. Use the architecture as a reference for implementing DR solutions on AWS or other cloud platforms.
 
 Archie Chadha
