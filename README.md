@@ -25,12 +25,11 @@ Key Features
 - Designed for minimal downtime & business continuity
 
 Project Files
--   
+-   docs
   *Detailed documentation of the solution architecture, AWS services used, and disaster recovery plan.*
 
 How to Use
-As this is a conceptual & report-based project:
-1. Review the detailed report 
+1. Review the detailed report docs
 2. Use the architecture as a reference for implementing DR solutions on AWS or other cloud platforms.
 
 Archie Chadha
